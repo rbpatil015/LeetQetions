@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/rbpatil015/LeetQetions/tree/master/0128-longest-consecutive-sequence) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rbpatil015/LeetQetions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0215-kth-largest-element-in-an-array](https://github.com/rbpatil015/LeetQetions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0274-h-index](https://github.com/rbpatil015/LeetQetions/tree/master/0274-h-index) |
 ## Two Pointers
 |  |
 | ------- |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/rbpatil015/LeetQetions/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/rbpatil015/LeetQetions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0274-h-index](https://github.com/rbpatil015/LeetQetions/tree/master/0274-h-index) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -73,4 +75,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rbpatil015/LeetQetions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/rbpatil015/LeetQetions/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
