@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rbpatil015/LeetQetions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0128-longest-consecutive-sequence](https://github.com/rbpatil015/LeetQetions/tree/master/0128-longest-consecutive-sequence) |
+| [0205-isomorphic-strings](https://github.com/rbpatil015/LeetQetions/tree/master/0205-isomorphic-strings) |
 ## Union-Find
 |  |
 | ------- |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rbpatil015/LeetQetions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0205-isomorphic-strings](https://github.com/rbpatil015/LeetQetions/tree/master/0205-isomorphic-strings) |
 | [0392-is-subsequence](https://github.com/rbpatil015/LeetQetions/tree/master/0392-is-subsequence) |
 ## Sliding Window
 |  |
