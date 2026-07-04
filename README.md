@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/rbpatil015/LeetQetions/tree/master/0027-remove-element) |
+| [0045-jump-game-ii](https://github.com/rbpatil015/LeetQetions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/rbpatil015/LeetQetions/tree/master/0055-jump-game) |
 | [0088-merge-sorted-array](https://github.com/rbpatil015/LeetQetions/tree/master/0088-merge-sorted-array) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/rbpatil015/LeetQetions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -31,12 +32,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/rbpatil015/LeetQetions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/rbpatil015/LeetQetions/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/rbpatil015/LeetQetions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0392-is-subsequence](https://github.com/rbpatil015/LeetQetions/tree/master/0392-is-subsequence) |
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/rbpatil015/LeetQetions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/rbpatil015/LeetQetions/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/rbpatil015/LeetQetions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 ## Hash Table
