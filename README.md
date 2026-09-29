@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/rbpatil015/LeetQetions/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/rbpatil015/LeetQetions/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/rbpatil015/LeetQetions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/rbpatil015/LeetQetions/tree/master/0055-jump-game) |
 | [0088-merge-sorted-array](https://github.com/rbpatil015/LeetQetions/tree/master/0088-merge-sorted-array) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/rbpatil015/LeetQetions/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/rbpatil015/LeetQetions/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/rbpatil015/LeetQetions/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rbpatil015/LeetQetions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0392-is-subsequence](https://github.com/rbpatil015/LeetQetions/tree/master/0392-is-subsequence) |
@@ -33,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/rbpatil015/LeetQetions/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/rbpatil015/LeetQetions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/rbpatil015/LeetQetions/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/rbpatil015/LeetQetions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -96,4 +99,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/rbpatil015/LeetQetions/tree/master/0238-product-of-array-except-self) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/rbpatil015/LeetQetions/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/rbpatil015/LeetQetions/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
