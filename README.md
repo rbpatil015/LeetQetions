@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/rbpatil015/LeetQetions/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/rbpatil015/LeetQetions/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/rbpatil015/LeetQetions/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/rbpatil015/LeetQetions/tree/master/0045-jump-game-ii) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/rbpatil015/LeetQetions/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/rbpatil015/LeetQetions/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/rbpatil015/LeetQetions/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/rbpatil015/LeetQetions/tree/master/0088-merge-sorted-array) |
@@ -29,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/rbpatil015/LeetQetions/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/rbpatil015/LeetQetions/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/rbpatil015/LeetQetions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0274-h-index](https://github.com/rbpatil015/LeetQetions/tree/master/0274-h-index) |
