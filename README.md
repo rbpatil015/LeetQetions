@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/rbpatil015/LeetQetions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/rbpatil015/LeetQetions/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/rbpatil015/LeetQetions/tree/master/0274-h-index) |
+| [0643-maximum-average-subarray-i](https://github.com/rbpatil015/LeetQetions/tree/master/0643-maximum-average-subarray-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rbpatil015/LeetQetions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0643-maximum-average-subarray-i](https://github.com/rbpatil015/LeetQetions/tree/master/0643-maximum-average-subarray-i) |
 ## Database
 |  |
 | ------- |
