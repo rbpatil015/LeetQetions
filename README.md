@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/rbpatil015/LeetQetions/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/rbpatil015/LeetQetions/tree/master/0274-h-index) |
 | [0643-maximum-average-subarray-i](https://github.com/rbpatil015/LeetQetions/tree/master/0643-maximum-average-subarray-i) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/rbpatil015/LeetQetions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Two Pointers
 |  |
 | ------- |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/rbpatil015/LeetQetions/tree/master/0128-longest-consecutive-sequence) |
 | [0205-isomorphic-strings](https://github.com/rbpatil015/LeetQetions/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/rbpatil015/LeetQetions/tree/master/0290-word-pattern) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/rbpatil015/LeetQetions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Union-Find
 |  |
 | ------- |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rbpatil015/LeetQetions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0643-maximum-average-subarray-i](https://github.com/rbpatil015/LeetQetions/tree/master/0643-maximum-average-subarray-i) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/rbpatil015/LeetQetions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Database
 |  |
 | ------- |
